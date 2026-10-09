@@ -217,7 +217,13 @@ __marimo__/
 # Streamlit
 .streamlit/secrets.toml
 
-
+# BACKEND 
 
 ./backend/venv
 password.txt
+
+# FRONTEND
+
+node_modules/
+
+
